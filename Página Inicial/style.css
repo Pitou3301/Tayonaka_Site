@@ -1,0 +1,73 @@
+*{
+   padding: 0px;
+   margin: 0px;
+}
+body{
+   font-family: 'Raleway', sans-serif;
+}
+.cabecalho{
+   background-color: #000000;
+   color: #ffffff;
+   display: flex;
+   justify-content: space-around;
+   padding: 25 0px;
+}
+.titulo-cabecalho{
+   font-size: 50px;
+   font-style: italic;
+   display: flex;
+   color: #E8C7FF;
+}
+.black-hole{
+   width: 10%;
+   height: 10%;
+}
+.item-lista{
+   margin-top: 20px;
+   display: inline-block;
+   margin: 0 10px;
+   font-size: 20px;
+}
+.corpo{
+   background-image: linear-gradient(#000000,#464646);
+   display: flex;
+   justify-content: center;
+   padding: 30px 0;
+}
+.div-corpo{
+   width: 60%;
+}
+.foguete{
+   width: 20%;
+   margin-left: 820px;
+
+}
+.titulo-corpo{
+   margin-left: 85px;
+   font-size: 50px;
+   font-style: italic;
+   color: #E8C7FF;
+   padding: 10px 0;
+
+}
+.texto-corpo{
+   margin-left: 20px;
+   font-size: 20px;
+   width: 60%;
+   color: #ffffff;
+}
+.titulo-projeto-um{
+   margin-left: 20px;
+   color: #E8C7FF;
+   font-size: 40px;
+   font-style: italic;
+}
+.projetos{
+   background-color: #464646;
+}
+.texto-projeto-um{
+   font-size: 20px;
+   color: #fff;
+   margin-left: 20px;
+   width: 50%;
+}
