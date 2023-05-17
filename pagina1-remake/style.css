@@ -1,10 +1,11 @@
 :root{
     --cor-de-fundo: #000000;
 }
-body{
+.corpo{
     background-color: var(--cor-de-fundo);
+
 }
-h1{
+.titulo-cabecalho{
     color: white;
-    font-size: 10%;
+    
 }
