@@ -1,11 +1,25 @@
-:root{
-    --cor-de-fundo: #000000;
+body{
+   
 }
-.corpo{
-    background-color: var(--cor-de-fundo);
-
+.solzin{
+	width: 65px;
+	height: 65px;
 }
-.titulo-cabecalho{
-    color: white;
-    
+.cabecalho{
+	background-color: #000000;
+	padding-right: 40px;
+	 display: flex;
+	 justify-content: space-around;
+}
+.titulo{
+	padding-top: 30px;
+	color: #E8C7FF;
+}
+.robotica{
+	padding-top: 30px;
+	color: #f0f0f0;
+	font-style: italic;
+}
+a{
+	text-decoration: none;
 }
