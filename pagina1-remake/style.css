@@ -24,9 +24,10 @@ a{
 	text-decoration: none;
 }
 .banner{
-    background-image: -o-linear-gradient(#000000,#868686);
+    background-image: linear-gradient(#000000,#4b4b4b)
 }
 .banner-titulo{
+    padding-top: 15px;
     padding-left: 20px;
     color: #E8C7FF;
     font-style: italic;
@@ -35,4 +36,24 @@ a{
    display: flex;
    justify-content: space-around;
    padding: 10px;
+   color: #ffffff;
+}
+.projetos{
+    background-image: linear-gradient(#4b4b4b,#000000)
+}
+.titulo-projetos{
+   padding-top: 27px;
+   padding-left: 20px;
+   color:#E8C7FF;
+   font-style: italic; 
+}
+.texto-foto1-projetos{
+    display: flex;
+    justify-content: space-around;
+    padding: 10px;
+    color: #ffffff;
+}
+.nao-clique{
+
+
 }
